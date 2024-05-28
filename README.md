@@ -31,7 +31,7 @@ Ensure you have the following software installed:
    git clone https://github.com/yourusername/tic-tac-toe.git
 
 
-cd tic-tac-toe
-npm install
-npm start
+# cd tic-tac-toe
+# npm install
+# npm start
 
